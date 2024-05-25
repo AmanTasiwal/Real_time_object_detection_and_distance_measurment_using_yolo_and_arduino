@@ -1,2 +1,2 @@
 In this project, we use Arduino, ESP32 cam module, Servo motor, Ultrasonic Sensor and Buzzer. Using the YOLO we write code for object detection and measure the distance between the object and camera module. We use servo motor and attach the camera to it so that we get the larger view. 
-For running the code you need to download [yolov3.weights](https://github.com/patrick013/Object-Detection---Yolov3/blob/master/model/yolov3.weights)
+For running the code you need to download [yolov3.weights](https://www.kaggle.com/datasets/shivam316/yolov3-weights?resource=download)
