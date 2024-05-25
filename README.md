@@ -1,0 +1,1 @@
+In this project, we use Arduino, ESP32 cam module, Servo motor, Ultrasonic Sensor and Buzzer. Using the YOLO we write code for object detection and measure the distance between the object and camera module. We use servo motor and attach the camera to it so that we get the larger view. 
